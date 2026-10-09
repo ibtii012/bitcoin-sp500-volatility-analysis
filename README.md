@@ -42,6 +42,13 @@ The reported results indicate that:
 
 These findings describe the results reported in the project and depend on the sample period and model specifications.
 
+## Volatility Comparison
+
+The estimated conditional volatility series highlight the differences in volatility behaviour between Bitcoin and the S&P 500.
+
+![Conditional volatility comparison between Bitcoin and the S\&P 500](volatility-comparison.png)
+
+
 ## Tools and Technologies
 
 * **R**
